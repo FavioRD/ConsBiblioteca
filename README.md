@@ -31,7 +31,7 @@ SistemaBiblioteca/
 ## Instalación y Ejecución
 1. **Clona este repositorio:**
 ```sh
-git clone https://github.com/tu_usuario/SistemaBiblioteca.git
+git clone https://github.com/FavioRD/ConsBiblioteca.git
 cd SistemaBiblioteca/src
 ```
 2. **Compila los archivos Java:**
