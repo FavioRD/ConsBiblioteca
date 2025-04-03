@@ -32,7 +32,7 @@ SistemaBiblioteca/
 1. **Clona este repositorio:**
 ```sh
 git clone https://github.com/FavioRD/ConsBiblioteca.git
-cd SistemaBiblioteca/src
+cd ConsBiblioteca/src
 ```
 2. **Compila los archivos Java:**
 ```sh
