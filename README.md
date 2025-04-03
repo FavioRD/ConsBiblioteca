@@ -63,6 +63,10 @@ Ejemplo de flujo:
 3. **Prestar un libro:** Seleccionar un libro y un usuario.
 4. **Devolver un libro:** Registrar la devolución.
 
+## Capturas 📸
+
+![bibibliotecademo](https://github.com/user-attachments/assets/a33647f6-373c-4232-83ed-cc5d8015a775)
+
 ## Mejoras Futuras 🚀
 - Agregar almacenamiento en archivos o base de datos.
 - Implementar una interfaz gráfica en JavaFX o Swing.
