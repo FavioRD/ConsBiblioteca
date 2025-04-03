@@ -65,7 +65,7 @@ Ejemplo de flujo:
 
 ## Capturas 📸
 
-![bibibliotecademo](https://github.com/user-attachments/assets/Demo)
+![bibibliotecademo](https://github.com/user-attachments/assets/2733f43c-3211-4a4e-9ed1-e13a1469daaf)
 
 ## Mejoras Futuras 🚀
 - Agregar almacenamiento en archivos o base de datos.
