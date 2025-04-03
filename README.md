@@ -18,7 +18,7 @@ Este es un sistema de gestión de biblioteca desarrollado en **Java** a nivel co
 
 ## Estructura del Proyecto
 ```
-SistemaBiblioteca/
+Biblioteca/
 │── src/
 │   ├── Biblioteca.java
 │   ├── Libro.java
